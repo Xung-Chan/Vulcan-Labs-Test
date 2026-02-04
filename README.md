@@ -12,6 +12,8 @@
 
 This repository contains the technical test submission for Vulcan Labs internship position.
 
+![img.png](img.png)
+
 **How to Run:**
 ```cmd
 ./gradlew installDebug
